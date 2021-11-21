@@ -1,4 +1,4 @@
-# nails-external-cheat
+# Nails-external-cheat
 Nails Beta is a csgo external cheat coded in python.
 
 this cheat is undetected by vac.
